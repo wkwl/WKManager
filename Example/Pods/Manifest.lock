@@ -1,0 +1,16 @@
+PODS:
+  - WKManager (0.1.0)
+
+DEPENDENCIES:
+  - WKManager (from `../`)
+
+EXTERNAL SOURCES:
+  WKManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WKManager: 8ef46ec35d2d4be8019dddf68ff6ca94ad72ff57
+
+PODFILE CHECKSUM: 247a0802f8df7471278beebf0adf7fa67f29dbd0
+
+COCOAPODS: 1.11.2

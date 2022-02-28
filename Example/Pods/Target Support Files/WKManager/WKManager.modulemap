@@ -1,0 +1,6 @@
+framework module WKManager {
+  umbrella header "WKManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
