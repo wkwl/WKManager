@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WKManager_Tests' do
+  pod 'WKManager', :path => '../'
+  
+  
+end
